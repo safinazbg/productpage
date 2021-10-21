@@ -1,5 +1,7 @@
 # productpage
-Product page for a web shop made with vue3
+Product page for a web shop made with vue3 and composition API
+>uses partially ui-kit css framework
+
 ## Project setup
 ```
 npm install
