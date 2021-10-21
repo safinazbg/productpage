@@ -1,5 +1,5 @@
 # productpage
-
+Product page for a web shop made with vue3
 ## Project setup
 ```
 npm install
