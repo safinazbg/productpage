@@ -1,6 +1,6 @@
 # productpage
 Product page for a web shop made with vue3 and composition API
->uses partially ui-kit css framework
+>uses partially UIkit css framework
 
 ## Project setup
 ```
